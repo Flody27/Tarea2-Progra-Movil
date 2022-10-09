@@ -27,7 +27,7 @@
     <string name="msg_falta_datos">faltan datos</string>
     <string name="img_auto_cardView">imagen del auto</string>
     <string name="label_Motor">Motor:</string>
-    <string name="label_caballos">Cabllos Motor:</string>
+    <string name="label_caballos">Caballos Motor:</string>
     <string name="label_velocidad_maxima">Velocidad Maxima:</string>
 
 </resources>
