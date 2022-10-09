@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591565151865",
+    "project_id": "datoautos-d2fdd",
+    "storage_bucket": "datoautos-d2fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591565151865:android:e642812c52cc084714bea8",
+        "android_client_info": {
+          "package_name": "com.datoautos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591565151865-3ld616ni8viq31aknhn2gtg9f193olgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvabRJEBUora_xepHfrD65dZnGu5ID4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591565151865-3ld616ni8viq31aknhn2gtg9f193olgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

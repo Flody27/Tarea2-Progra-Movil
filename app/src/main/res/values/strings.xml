@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DatoAutos</string>
+    <string name="et_clave">Contraseña</string>
+    <string name="et_correo">Correo electronico</string>
+    <string name="bt_registro">Registrase</string>
+    <string name="bt_loguearse">Iniciar sesion</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_auto_datos">Autos Datos</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btflt_add_auto_dato">agregar dato auto</string>
+    <string name="bt_add_auto_dato">agregar dato auto</string>
+    <string name="msg_marca_auto">marca del auto</string>
+    <string name="msg_modelo_auto">modelo del auto</string>
+    <string name="msg_motor_info">tipo motor - cilindrada</string>
+    <string name="msg_caballo_motor">caballos del auto</string>
+    <string name="msg_velcidad_maxima">velocidad maxima</string>
+    <string name="msg_add_autos_datos">Dato Auto Añadido</string>
+    <string name="msg_falta_datos">faltan datos</string>
+    <string name="img_auto_cardView">imagen del auto</string>
+    <string name="label_Motor">Motor:</string>
+    <string name="label_caballos">Cabllos Motor:</string>
+    <string name="label_velocidad_maxima">Velocidad Maxima:</string>
+
+</resources>

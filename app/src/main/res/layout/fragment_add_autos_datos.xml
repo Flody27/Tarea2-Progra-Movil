@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.AutosDatos.addAutosDatosFragment" >
+
+    <EditText
+        android:id="@+id/txt_marca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/msg_marca_auto"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        tools:ignore="EditableContentDescCheck" />
+
+    <EditText
+        android:id="@+id/txt_modelo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/msg_modelo_auto"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/txt_motorInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/msg_motor_info"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/txt_caballos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/msg_caballo_motor"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/txt_velocidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/msg_velcidad_maxima"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/bt_addDatoAuto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_add_auto_dato" />
+</LinearLayout>
